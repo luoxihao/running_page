@@ -10,18 +10,14 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
+  siteTitle: '罗熙浩的运动页面',
   siteUrl: 'https://yihong.run',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  logo: 'assets/WeChatdf00885705dc00b7cf5f2da8f41c5ffe.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
-      name: 'Blog',
+      name: '页面作者的Blog',
       url: 'https://github.com/yihong0618/gitblog',
-    },
-    {
-      name: 'About',
-      url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
     },
   ],
 };
