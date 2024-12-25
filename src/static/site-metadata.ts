@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
   siteUrl: 'https://yihong.run',
-  logo: 'assets/lxh.jpg',
+  logo: 'https://sm.ms/delete/bcqFlxysnfmvoCgZLPSIaBArGe',
   description: 'Personal site and blog',
   navLinks: [
     {
